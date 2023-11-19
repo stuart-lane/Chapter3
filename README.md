@@ -1,3 +1,3 @@
 # Chapter 3
 
-Code for Chapter 3 of "Estimation and inference with weak instruments".
+This repository contains MATLAB and Python code for replicating Chapter 3 "Weak identification in nponparametric instrumental regression" of the Thesis "Estimation and Inference with Weak Instruments".
